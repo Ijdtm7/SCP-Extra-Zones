@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        "CIC",
+        "CCC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        },
+        
+        "I":
+        {
+            "item": "minecraft:dye"
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "sez:bluestone",
+        "count": 64
+    }
+}

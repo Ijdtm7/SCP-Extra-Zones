@@ -1,0 +1,10 @@
+item.bluestone.name=SCP Token
+tile.admin_bottom.name=Administrative Dep Bottom Block
+tile.admin_top.name=Administrative Dep Top Block
+tile.maintain_bottom.name=Maintenance Dep Bottom Block
+tile.maintain_top.name=Maintenance Dep Top Block
+tile.entrance_bottom.name=Entrance Zone Bottom Block
+tile.entrance_top.name=Entrance Zone Top Block
+tile.middle_wall.name=Foundation Wall Block
+
+itemGroup.scpextrazonestab=SCP Extra Zones

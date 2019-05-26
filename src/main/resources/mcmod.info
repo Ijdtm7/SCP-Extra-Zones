@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sez",
+  "name": "SCP Extra Zones",
+  "description": "A small mod created in one hour that acts as an extension to the SCP Lockdown Mod. It adds Admin Zone, maintenance zone, and Entrance Zone blocks.",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ijd"],
+  "credits": "The SCP Lockdown mod developers and Site 21",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
